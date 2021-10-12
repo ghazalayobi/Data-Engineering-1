@@ -1,0 +1,33 @@
+{
+    "bookstore" : [
+        {
+            "lang" : "en",
+            "title" : "Every Italian",
+            "author" : "Gaide De Laurentiis", 
+            "year" : 2005,
+            "price" : 30.00,
+            "available" : true,
+            "category" : "COOKING"
+
+        },
+        {
+            "lang" : "en",
+            "title" : "Harry Potter",
+            "author" : "J K. Rowling", 
+            "year" : null,
+            "price" : 29.00,
+            "available" : false,
+            "category" : "CHILDREN"
+        },
+        {
+            "lang" : ["en", "hu"],
+            "title" : ["The Data Warehouse", "Adattárház eszközök"],
+            "author" : ["Ralph Kimball", "Margy Ross"],
+            "year" : 2002,
+            "price" : 87,
+            "available" : true,
+            "category" : "DATA"
+        }
+    ]
+
+}

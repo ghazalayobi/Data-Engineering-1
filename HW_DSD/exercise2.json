@@ -1,0 +1,64 @@
+{
+    "university_db" : [
+        {
+            "students" : [
+                {
+
+                    "student_id" : 1111,
+                    "student_name" : "ghazal",
+                    "student_surname" : "ayobi",
+                    "program_name" : "business_analytics",
+                    "department_name": "ECBS",
+                    "couse" : "data_engineering1"
+                },
+                {
+
+                    "student_id" : 1112,
+                    "student_name" : "adam",
+                    "student_surname" : "smit",
+                    "program_name" : "economics",
+                    "department_name" : "ECBS",
+                    "couse" : "microeconomics"   
+                }
+        
+            ]
+
+        },
+
+
+        {
+            "programs" : [
+                {
+
+                    "program_id" : 111,
+                    "program_name" : "business_analytics",
+                    "department_name" : "ECBS"
+                },
+                {
+
+                    "program_id" : 112,
+                    "program_name" : "economics",
+                    "department_name" : "ECBS" 
+                }
+            ]
+        },
+
+
+        {
+            "departments" : [
+                {
+
+                    "department_id" : 11,
+                    "department_name" : "ECBS"
+        
+                },
+                {
+                    
+                    "department_id" : 12,
+                    "department_name" : "MESP"
+                }
+            ]
+        }
+
+    ]
+}
