@@ -49,5 +49,12 @@ The awaiting payment aims to show amount of pending payment across all months. I
 
 #### Extras ####
 
-#### Materialized View ####
+##### Materialized View #####
+First I created a view which show the average and total sales and costs of sales per each store segment across all months. The aim of this view is to compare and contrast to the averages and totals during each month to learn which store segment generates more sales.
+
+Moreover, I created a materialized view that to store this view. Please find it [here](https://github.com/ghazalayobi/de1/blob/main/Term1/Materialized_View.sql).
+
+##### Events #####
+
+
 
