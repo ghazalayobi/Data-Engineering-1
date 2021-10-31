@@ -25,7 +25,10 @@ In order to accomplish this project, my analytics plan is as following.
 
 ### Analytics Layer ###
 
+For this layer I created a data warehouse to analyze orders.  This data warehouse consists of five dimensions. Please find queries [here](https://github.com/ghazalayobi/de1/blob/main/Term1/data_warehouse_etl.sql).
+![dw_orders_analysis](https://github.com/ghazalayobi/de1/blob/main/Term1/dw_orders_analysis-2.png)
+
+### Data Marts ###
 
 
-![dw_orders_analysis](https://github.com/ghazalayobi/de1/blob/main/Term1/dw_orders_analysis.png)
 
