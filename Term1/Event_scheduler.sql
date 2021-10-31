@@ -21,6 +21,5 @@ do
 Delimiter ;
 
 select * from messages;
-drop event if exists refresh_segment_monthly_sales_table_event;
-
 show events;
+drop event if exists refresh_segment_monthly_sales_table_event;
