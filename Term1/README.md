@@ -25,10 +25,26 @@ In order to accomplish this project, my analytics plan is as following.
 
 ### Analytics Layer ###
 
-For this layer I created a data warehouse to analyze orders.  This data warehouse consists of five dimensions. Please find queries [here](https://github.com/ghazalayobi/de1/blob/main/Term1/data_warehouse_etl.sql).
+For this layer I created a data warehouse to analyze orders.  This data warehouse consists of five dimensions, Orders, Payments, Deliveries, Stores and Chennals. Please find queries [here](https://github.com/ghazalayobi/de1/blob/main/Term1/data_warehouse_etl.sql).
 ![dw_orders_analysis](https://github.com/ghazalayobi/de1/blob/main/Term1/dw_orders_analysis-2.png)
 
 ### Data Marts ###
+
+#### View one: Data Summary ####
+I created this view to assist users to have an overview of the data. This view consists of Number of Records, Sales, Total Months and types of payment method. 
+
+#### View two: January Sales ####
+This view illustrates the total, average, minimum, and maximum Sales and delivery cost in the month of January. 
+
+#### View three: Monthly Sales ####
+This view aims to illustrate average sales across each payment method during each month. The purpose of this view is to observe which payment method generated highest sales in that specific month.
+
+#### View four: Average Delivery Distance ####
+This view aims to illustrate average delivery distance across all stores. Moreover, this view helps understand which stores on average has the longest delivery distance. 
+
+#### View five: Awaiting Payments ####
+The awaiting payment aims to show amount of pending payment across all months. It is interesting to observe that January has the highest amount of awaiting payments. 
+
 
 
 
