@@ -27,3 +27,5 @@ In order to accomplish this project, my analytics plan is as following.
 
 
 
+[dw_orders_analysis](https://github.com/ghazalayobi/de1/blob/main/Term1/dw_orders_analysis.png)
+
