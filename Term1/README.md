@@ -45,9 +45,10 @@ This view aims to illustrate average delivery distance across all stores. Moreov
 #### View five: Awaiting Payments ####
 The awaiting payment aims to show amount of pending payment across all months. It is interesting to observe that January has the highest amount of awaiting payments. 
 
+View can be found [here](https://github.com/ghazalayobi/de1/blob/main/Term1/data_warehouse_etl.sql)
 
 
-#### Extras ####
+### Extras ###
 
 #### Materialized View ####
 
