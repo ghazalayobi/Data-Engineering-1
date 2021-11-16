@@ -15,7 +15,7 @@ We made our project reproducable with slight modifications required by the user:
 1. Open Knime Workflow and run File Reader section (saves required files to folder from where MySQL reads in - path needs to be changed to users)
 2. Open MySQL on users computer and run provided sql scripts
 3. Configure MySQL Connector node in Knime with the username and password of the user
-4. To save output images, change “Output Location” for all “Input Nodes” (output images also available [here](https://github.com/ghazalayobi/de1/tree/main/Term2/graph).
+4. To save output images, change “Output Location” for all “Input Nodes”, output images also available [here](https://github.com/ghazalayobi/de1/tree/main/Term2/graph).
 5. The workflow can now be run by the user
 The overview of the workflow is the following:
 For further details prease read our [report](https://github.com/ghazalayobi/de1/blob/main/Term2/Paris_team_term_project2_report.pdf).
