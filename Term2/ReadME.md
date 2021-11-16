@@ -26,7 +26,7 @@ For further details prease read our [report](https://github.com/ghazalayobi/de1/
 
 
 
-Message Abigail Chen, Ádám, Shah Ali Gardezi
+Abigail Chen, Ádám, Shah Ali Gardezi, Ghazal Ayobi
 
 
 
